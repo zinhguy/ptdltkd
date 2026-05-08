@@ -1,4 +1,6 @@
+[![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=Zinh%20Guy%20🌈&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 # PTDLTKD
+[![SVG Banners](https://svg-banners.vercel.app/api?type=textBox&text1=zinh%20guy%20🤖&width=800&height=400&bg=007bff)](https://github.com/Akshay090/svg-banners)
 
 Repository này chứa các file code Python dùng để thu thập, xử lý và trực quan hóa dữ liệu bình luận Facebook.
 
